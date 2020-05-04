@@ -1,4 +1,19 @@
 {
-  "icons": null,
-  "splash_pages": null
+  "name":"Vai Mesmo",
+  "short_name":"Vai Mesmo",
+  "icons":[
+    {
+      "src":"https://1.bp.blogspot.com/-yZQWcIqSE58/XrB_PbKy8XI/AAAAAAAAH-w/4sTF-1P7MYsoIpcebYUOTLDc77yS8zVCgCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    },
+    {
+      "src":"https://1.bp.blogspot.com/-SbmRNYGMOgM/XrB_PbFEn8I/AAAAAAAAH-0/i_gjio2Oco4arej1qYGX-fBVBKnjDfKIACLcBGAsYHQ/s320/android-chrome-512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+          ],
+  "theme_color":"#92312d",
+  "background_color":"#3e8885",
+  "display":"standalone"
 }
